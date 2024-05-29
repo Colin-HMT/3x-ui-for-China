@@ -24,11 +24,11 @@
 
 ## 安装指定版本
 
-要安装所需的版本，请将该版本添加到安装命令的末尾。 e.g., ver `v2.3.1`:（可用）
+要安装所需的版本，请将该版本添加到安装命令的末尾。（可用）
 
 ```
-bash <(curl -Ls https://github.moeyy.xyz/https://raw.githubusercontent.com/Colin-HMT/3x-ui-for-China/master/install.sh) v2.3.1
-（最新版本号请自行到原始项目获取）
+bash <(curl -Ls https://github.moeyy.xyz/https://raw.githubusercontent.com/Colin-HMT/3x-ui-for-China/master/install.sh) vx.x.x
+（最新版本号请自行到原始项目获取，并替换命令末尾的“vx.x.x”）
 ```
 
 ## SSL 认证
